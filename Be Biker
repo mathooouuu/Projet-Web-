@@ -1,1 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8"/>
+        <title>be biker service Accueil</title>
+    </head>
 
+    <body>
+        <header>
+            <h1>Nous prenons soin de votre vélo</h1>
+            <nav>
+                <ul>
+                    <li> <a href="accueil.html">ACCUEIL</a> </li>
+                    <li> <a href="qui_sommes_nous.html">QUI SOMMES-NOUS ?</a> </li>
+                    <li> <a href="nos_services.html">NOS SERVICES</a> </li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <h2>Nous prenons soin de votre vélo</h2>
+            <p>Au-delà de l'objet, le vélo est pour nous une philosophie, un art de vivre.
+                Vous pouvez nous faire confiance.
+            </p>
+            <nav>
+                <a href="qui_sommes_nous.html">En savoir plus</a>
+            </nav>
+
+            <h2>Un atelier professionnel</h2>
+            <p>C'est dans notre atelier que nous réparons les vélos de nos clients et que nous testons les nouveaux produits.
+                aucun détail ne nous échappe.
+            </p>
+            <nav>
+                <a href="nos_services.html">Nos services</a>
+            </nav>
+
+            <table>
+                <tr> 
+                    <td><h3>Service à domicile</h3> </td>
+                    <td>
+                        <p>Nous nous déplaçons pour récupérer et vous ramener votre vélo réparé chez vous, 
+                        en nous adaptant à vos disponibilités.
+                        </p>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><h3>Service client</h3></td>
+                    <td><p>Un service client à votre écoute pour vous conseiller par téléphone et vous recevoir en atelier</p></td>
+                </tr>
+
+                <tr>
+                    <td><h3>Service express</h3></td>
+                    <td><p>Vous avez besoin que votre vélo soit en état de rouler demain ? C'est possible.</p></td>
+                </tr>
+
+                <tr>
+                    <td><h3>Autres services</h3></td>
+                    <td><p>Réparations, conseils, équipements... Nous avons tout ce qu'il vous faut.</p></td>
+                </tr>
+            </table>
+
+            <nav>
+                <a href="nos_services.html">En savoir plus</a>
+            </nav>
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
